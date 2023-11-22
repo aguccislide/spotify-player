@@ -1,5 +1,6 @@
 # spotify_player
-umm built with uh pulseaudio-backend lyric-finder image notify daemon, wow!
+umm built with uhhhh
+pulseaudio-backend, lyric-finder, image, notify, and daemon. wow!
 
 ## Table of Contents
 
